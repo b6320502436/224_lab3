@@ -14,7 +14,11 @@ int main()
             {
                 c++;
             }
-        
+        if(a==0)
+        {
+            break;
+        }
+    }
     }
 
     return 0;
